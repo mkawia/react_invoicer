@@ -1,0 +1,124 @@
+
+
+
+#actions-buttons-wrapper{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    padding:2em;
+}
+#invoiceholder {
+    width: 100%;
+    height: 100%;
+}
+
+
+#invoiceholder h1 {
+    font-size: 1.5em;
+    color: #222;
+}
+
+#invoiceholder h2 {
+    font-size: .9em;
+}
+
+#invoiceholder h3 {
+    font-size: 1.2em;
+    font-weight: 300;
+    line-height: 2em;
+}
+
+#invoiceholder p {
+    font-size: .7em;
+    color: #666;
+    line-height: 1.2em;
+}
+
+
+#invoice-print {
+    position: relative;
+    top: 0;
+    margin: 0 auto;
+    width: 700px;
+    background: #FFF;
+   /* padding: 30px;*/
+}
+
+
+#invoice-top {
+    min-height: 120px;
+    border-bottom: 1px solid #EEE;
+margin-bottom:1em;
+}
+
+#invoice-mid {
+    min-height: 120px;
+}
+
+#invoice-bot {
+    min-height: 250px;
+}
+
+
+
+.info {
+    display: block;
+    float: left;
+    margin-left: 20px;
+}
+
+.title {
+    float: right;
+}
+
+.title p {
+    text-align: right;
+}
+
+#project {
+    margin-left: 52%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px 0 5px 15px;
+    border: 1px solid #EEE
+}
+
+.tabletitle {
+    padding: 5px;
+    background: #EEE;
+}
+
+.service {
+    border: 1px solid #EEE;
+}
+
+.item {
+    width: 50%;
+}
+
+.itemtext {
+    font-size: .9em;
+}
+
+#additional_info_wrapper {
+    margin-top: 30px;
+}
+
+form {
+    float: right;
+    margin-top: 30px;
+    text-align: right;
+}
+
+
+
+
+.additional_info {
+    width: 70%;
+}

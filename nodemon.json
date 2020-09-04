@@ -1,0 +1,3 @@
+{
+    "ignore": ["public/", "web_apps/", "*.cached.json"]
+}
