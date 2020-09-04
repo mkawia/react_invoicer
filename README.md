@@ -12,6 +12,12 @@ Libraries used
   * [pouchdb][3]
 
 
+
+Requirements 
+------------
+  * Nodejs 10 orhigher;
+  * A computer
+
 Usage
 ------------
 
@@ -19,6 +25,14 @@ Run the production script on the root folder
 ```bash
 $ npm run prod
 ```
+
+
+![Alt text](landing.png "The initial page")
+![Alt text](new_invoice.png "New invoice form")
+![Alt text](invoice_list.png "Invoice list")
+![Alt text](view_invoice_modal.png "View invoice")
+![Alt text](invoice_print.png "Print invoice")
+
 
 Installation
 ------------
