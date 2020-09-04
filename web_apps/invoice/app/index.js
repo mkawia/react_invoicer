@@ -160,6 +160,7 @@ class App extends React.Component {
 
         return (
             <>
+                <a href="https://github.com/mkawia/react_invoicer/">source code</a>
                 <div style={this.getEmptyPageStyle()} id="empty-page">
                     <h1>No invoices</h1>
                     <Button size="large" onClick={this.showNewInvoiceModal} type="primary">Create your first invoice</Button>

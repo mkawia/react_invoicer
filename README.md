@@ -1,7 +1,7 @@
 React invoicer
 ========================
 
-A demo invoicer making app made in reactjs with a nodejs backend
+A demo invoicer making app made in reactjs with a nodejs backend. demoed here https://mkawia.github.io/react_invoicer
 
 Libraries used
 ------------
